@@ -32,5 +32,5 @@ Estoy en proceso de agregar las preguntas originales y más comentarios a cada a
 
 ## Sobre mí
 
-Hola, mi nombre es Juan David.
+Hola, mi nombre es Juan David.  
 Soy Tecnólogo en Automatización Industrial y actualmente curso Ingeniería de Software.
