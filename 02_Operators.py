@@ -1,50 +1,57 @@
         ### Operators ###
-# 1
+
+"""
+#1. Realiza las siguientes operaciones aritméticas:
+Suma: 15 + 25
+Resta: 50 - 22
+Multiplicación: 8 * 7
+División: 100 / 20
+"""
 print(f"Suma 15 + 25: {15+25}")
 print(f"Resta 50 - 22: {50-22}")
 print(f"Multiplicación 8 * 7: {8*7}")
 print(f"Division 100 / 20: {100/20}")
 
-# 2
+#2. Calcula el resto de la división de 37 entre 5 y almacénalo en una variable remainder. Luego imprímelo.
 remainder = 37 % 5
 print(f"Resto de la division 37 % 5: {remainder}")
 
-# 3
+#3. Convierte el número 7 en una cadena de texto y concaténalo con la frase “ es mi número favorito”. Imprime el resultado.
 favorite_number = str(7)
 print(f"{favorite_number} es mi numero favorito!!")
 
-# 4
+#4. Repite la palabra “Python” 10 veces usando el operador de multiplicación para cadenas y luego imprímela.
 word = "Python "
 print(word * 10)
 
-# 5
+#5. Crea dos variables: a y b con los valores 12 y 8 respectivamente. Compara si (a) es mayor que (b) y almacena el resultado en una variable booleana resultado. Imprime el valor de resultado.
 a = 12
 b = 8
 print(f"a=12, b=8")
 bool_result = a > b
 print(f"a=12, b=8, comparación booleana a > b: {bool_result}")
 
-# 6
+#6. Compara dos cadenas de texto (“apple” y “banana”) usando los operadores > y < y explica cuál tiene mayor orden alfabético.
 text_bigger = "banana" > "apple"
 print(f"Comparación banana y apple: {text_bigger}")
 """
-banana es mayor que apple, porque alfabeticamente esta comparacion se realiza
-caracter por caracter y b es mayo que a, de acuerdo al alfabeto.
+banana es mayor que apple, porque alfabéticamente esta comparación se realiza
+carácter por carácter y b es mayo que a, de acuerdo al alfabeto.
 """
 
-# 7
+#7. Realiza una comparación lógica usando and para verificar si el número 10 es mayor que 5 y menor que 20. Imprime el resultado.
 print(f"Comparación lógica del número 10 que es mayor que 5 y menor 20: {(10>5) and (10<20)}")
 
-# 8
-print(f"Comparción lógica del número 7 es menor que 3 o mayor que 5: {(7<3) or (7>5)}")
+#8. Usa el operador or para verificar si el número 7 es menor que 3 o mayor que 5. Imprime el resultado.
+print(f"Comparación lógica del número 7 es menor que 3 o mayor que 5: {(7<3) or (7>5)}")
 
-# 9
-print(f"Operador not en comparacion de 15>20: {not(15>20)}")
+#9. Aplica el operador not para invertir el resultado de la comparación 15 > 20. ¿Cuál es el resultado?
+print(f"Operador not en comparación de 15>20: {not(15>20)}")
 
-#10
+#10. Combina operadores aritméticos y lógicos: Verifica si el número resultante de la expresión (5 * 3) + 2 es mayor que 10 y menor que 20. Imprime el resultado.
 print(f"El número resultante de (5*3)+2 es mayor que 10 y menor que 20: {((5*3)+2 > 10) and ((5*3)+2 <20)}")
 
-# Valores ASCII. - Values ASCII.
+#Nota: Valores ASCII. - Note: Values ASCII.
 print(ord("J"))  # 74
 print(ord("u"))  # 117
 print(ord("a"))  # 97
