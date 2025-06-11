@@ -1,6 +1,6 @@
 # Ejercicios de Python desde Cero 🐍
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
 Este repositorio contiene una serie de ejercicios prácticos realizados para aprender los fundamentos del lenguaje Python. Está organizado por temas, y cada archivo incluye soluciones a preguntas clave, las cuales fueron planteadas por [MoureDev.pro](https://mouredev.com) en su curso básico de Python.
 
@@ -37,7 +37,6 @@ Estoy en proceso de agregar las preguntas originales y más comentarios a cada a
 Hola, mi nombre es Juan David.  
 Soy un ingeniero de Software apasionado por las nuevas tecnologias y el desarrollo seguro, me especializo en base de datos y optimización de estructuras para garantizar eficiencia y seguridad en los proyectos que desarrollo.
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
