@@ -2,7 +2,7 @@
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
-Este repositorio contiene una serie de ejercicios prácticos realizados para aprender los fundamentos del lenguaje Python. Está organizado por temas, y cada archivo incluye soluciones a preguntas clave, las cuales fueron planteadas por [MoureDev.pro](https://mouredev.com) en su curso básico de Python.
+Este repositorio contiene una serie de ejercicios prácticos realizados para aprender los fundamentos del lenguaje Python. Está organizado por temas, y cada archivo incluye soluciones a preguntas clave, las cuales fueron planteadas por [MoureDev.pro](https://mouredev.pro/) en su curso básico de Python.
 
 ## 📚 Contenido
 
