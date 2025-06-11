@@ -16,7 +16,7 @@ print(f"My height is: {height} mts")
 
 #2. Convierte la variable edad de entero a cadena y concaténala con un texto que diga cuántos años tienes.
 age_str = str(age)
-print(f"Im  {age_str} years old.")
+print(f"Im {age_str} years old.")
 print(type(age_str))
 
 #3. Declara una variable booleana is_student que indique si eres estudiante o no. Usa True o False según corresponda e imprímela.
@@ -26,10 +26,11 @@ if is_student:
     print(f"{name} is student.")
 else:
     print(f"{name} is not a student.")
+#Se crea una condición para verificar si la variable llega a ser verdadera entonces significa que es estudiando de lo contrario no lo es.
 
 #4. Usa la función len() para calcular cuántos caracteres tiene tu nombre completo, almacenado en una variable.
-print(len(name))
-print(f"The number of characters in your name are: {len(name)}")
+numbers_char = (len(name))
+print(f"The number of characters in your name are: {numbers_char}")
 
 #5. Declara tres variables en una sola línea que representen tu nombre, apellido y ciudad de origen. Luego, imprime estos valores.
 first_name, las_name, city = "Juan David", "Angel", "Bogota"
